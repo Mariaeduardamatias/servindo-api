@@ -1,0 +1,19 @@
+{
+  "name": "mini_projeto",
+  "version": "1.0.0",
+  
+  "type": "module",
+  
+  "scripts": {
+  "dev": "nodemon src/app.js"
+},
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+  "express": "^4.17.1"
+}
+
+}
