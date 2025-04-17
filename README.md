@@ -30,8 +30,6 @@ npm run dev
 http://localhost:3000
 ```
 
-
-
 🛠 Tecnologias Utilizadas
 Node.js
 
@@ -46,6 +44,7 @@ JSON
 💡 Aberto a melhorias futuras, como autenticação ou versionamento com banco de dados.
 
 👩🏾‍💻 Desenvolvido por Maria Eduarda
-LinkedIn | mariaeduardamatias2808@gmail.com
+LinkedIn
+📧 mariaeduardamatias2808@gmail.com
 
 Programa Programadores do Amanhã - M4 | API com JavaScript
