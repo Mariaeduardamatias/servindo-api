@@ -1,33 +1,21 @@
-# 🐾 Servindo – API de Apoio Emocional para Estudantes
+# 🐕‍🦺 Servindo – API de Apoio Emocional para Estudantes
 
-## ✨ Descrição  
-**Servindo 🐕‍🦺** é uma API utilitária criada para oferecer apoio emocional a estudantes que enfrentam estresse, ansiedade ou desmotivação. Através de frases motivacionais, exercícios de respiração e dicas de autocuidado, o sistema visa promover bem-estar e acolhimento durante os estudos.  
+## ✨ Descrição
 
-Projeto desenvolvido no Módulo 4 do curso **Programadores do Amanhã**.
+API utilitária desenvolvida para ajudar estudantes a lidarem com estresse, ansiedade e desmotivação durante os estudos, fornecendo suporte emocional com frases motivacionais, exercícios de respiração, dicas de autocuidado e contatos de emergência.
 
----
+## 📌 Rotas
 
-## 🔗 Rotas Disponíveis
-
-- **`/frases-motivacionais`**  
-  Retorna uma lista de frases inspiradoras para motivar e acalmar.
-
-- **`/exercicios-respiracao`**  
-  Exibe passos simples para realizar exercícios de respiração consciente.
-
-- **`/autocuidado`**  
-  Sugestões práticas de autocuidado físico, mental e emocional.
-
-- **`/emergencia`**  
-  Contém contatos e links úteis para ajuda profissional imediata.
-
----
+- `/frases-motivacionais` – Frases inspiradoras para estimular o foco e a motivação.
+- `/exercicios-respiracao` – Guia de respiração consciente para relaxamento.
+- `/autocuidado` – Sugestões simples de autocuidado diário.
+- `/emergencia` – Contatos e links úteis para apoio emocional imediato.
 
 ## 🚀 Como utilizar
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/servindo-api.git
+git clone https://github.com/Mariaeduardamatias/servindo-api.git
 
 # Acesse a pasta do projeto
 cd servindo-api
@@ -39,7 +27,7 @@ npm install
 npm run dev
 
 # O servidor estará rodando em:
-http://localhost:3000
+http://localhost:3000```
 
 
 🛠 Tecnologias Utilizadas
