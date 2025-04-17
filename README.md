@@ -28,7 +28,8 @@ npm run dev
 
 # O servidor estará rodando em:
 http://localhost:3000
-bash```
+```
+
 
 
 🛠 Tecnologias Utilizadas
