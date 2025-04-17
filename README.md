@@ -44,7 +44,7 @@ JSON
 💡 Aberto a melhorias futuras, como autenticação ou versionamento com banco de dados.
 
 👩🏾‍💻 Desenvolvido por Maria Eduarda
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/maria-eduarda-souza-919841276/)
 📧 mariaeduardamatias2808@gmail.com
 
 Programa Programadores do Amanhã - M4 | API com JavaScript
