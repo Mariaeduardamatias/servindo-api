@@ -1,21 +1,62 @@
-#  Servindo – API de Apoio Emocional para Estudantes
+# 🐾 Servindo – API de Apoio Emocional para Estudantes
 
-## ✨ Descrição
-API utilitária para ajudar estudantes a lidarem com estresse, ansiedade e desmotivação durante os estudos, fornecendo suporte emocional com frases, exercícios e recursos de autocuidado.
+## ✨ Descrição  
+**Servindo 🐕‍🦺** é uma API utilitária criada para oferecer apoio emocional a estudantes que enfrentam estresse, ansiedade ou desmotivação. Através de frases motivacionais, exercícios de respiração e dicas de autocuidado, o sistema visa promover bem-estar e acolhimento durante os estudos.  
 
-## 📌 Rotas
+Projeto desenvolvido no Módulo 4 do curso **Programadores do Amanhã**.
 
-- `/frases-motivacionais`: Frases inspiradoras.
-- `/exercicios-respiracao`: Passos para relaxar com respiração consciente.
-- `/autocuidado`: Sugestões simples de autocuidado.
-- `/emergencia`: Contatos e links úteis para apoio emocional urgente.
+---
 
-## 🚀 Como usar
+## 🔗 Rotas Disponíveis
 
-1. Clone o repositório
-2. Instale as dependências com `npm install express`
-3. Inicie com `node app.js`
-4. Acesse: `http://localhost:3000`
+- **`/frases-motivacionais`**  
+  Retorna uma lista de frases inspiradoras para motivar e acalmar.
 
-## 👩🏾‍💻 Feito por Maria Eduarda
-Projeto do módulo M4 – Programadores do Amanhã
+- **`/exercicios-respiracao`**  
+  Exibe passos simples para realizar exercícios de respiração consciente.
+
+- **`/autocuidado`**  
+  Sugestões práticas de autocuidado físico, mental e emocional.
+
+- **`/emergencia`**  
+  Contém contatos e links úteis para ajuda profissional imediata.
+
+---
+
+## 🚀 Como utilizar
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/servindo-api.git
+
+# Acesse a pasta do projeto
+cd servindo-api
+
+# Instale as dependências
+npm install
+
+# Inicie a API
+npm run dev
+
+# O servidor estará rodando em:
+http://localhost:3000
+
+
+
+🛠 Tecnologias Utilizadas
+Node.js
+
+Express.js
+
+Nodemon
+
+JSON
+
+📍 Status do Projeto
+✅ Finalizado – Entregue como parte da avaliação do Módulo 4 (Back-End)
+💡 Aberto a melhorias futuras, como autenticação ou versionamento com banco de dados.
+
+👩🏾‍💻 Desenvolvido por Maria Eduarda
+LinkedIn | mariaeduardamatias2808@gmail.com
+
+Programa Programadores do Amanhã - M4 | API com JavaScript
