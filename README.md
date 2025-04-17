@@ -39,8 +39,7 @@ npm install
 npm run dev
 
 # O servidor estará rodando em:
-http://localhost:3000```
-
+http://localhost:3000
 
 
 🛠 Tecnologias Utilizadas
